@@ -1,5 +1,7 @@
-I was the main architect of this prototype WebXR engine for a multiuser VR course taught by my professor ~2018 and updated onward.
-I touched every part of this code-base.
+### XR-MetaRoom
+
+I was the main architect of this prototype WebXR engine for a multiuser VR course taught by my professor ~2018 and updated onward. 
+I touched every part of this code-base. My advisor and his idea / need for a multi-user VR engine for the Web 
 
 The most interesting features include fully-dynamic JS script reloading and shader reloading.
 i.e. I wrote an integrated shader editor and preprocessor for changing visuals, and hot reloading functionality for all of the main loop scripts. Desktop users and multiple VR users can enter the same running experience.
@@ -13,8 +15,9 @@ https://github.com/KTRosenberg/XR-MetaRoom/tree/main/worlds/dynamic_renderer
 The shader preprocessor is here:
 https://github.com/KTRosenberg/XR-MetaRoom/blob/main/lib/util/webgl_basic_shader_preprocessor.js
 
-This was a collaborative project, but the commit history shows specifically what I did.
+The commit history shows specifically what I did.
 
+### Instructions
 
 * In order to start the backend, you need to execute 'run' or 'run.bat' depending on your OS
 * Otherwise, you can call `pm2 stop all` / `pm2 restart all` should you encounter critical errors
