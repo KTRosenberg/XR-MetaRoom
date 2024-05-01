@@ -41,3 +41,5 @@ The commit history shows specifically what I did.
 
 * * Make sure the submodule is up-to-date
 ```$git submodule foreach git pull origin master```
+
+Note: the server keys do not work / security is not compromised via these stale keys.
