@@ -17,29 +17,6 @@ https://github.com/KTRosenberg/XR-MetaRoom/tree/main/worlds/dynamic_renderer
 The shader preprocessor is here:
 https://github.com/KTRosenberg/XR-MetaRoom/blob/main/lib/util/webgl_basic_shader_preprocessor.js
 
-The commit history shows specifically what I did.
+The commit history shows my specific contributions.
 
-### Instructions
-
-* In order to start the backend, you need to execute 'run' or 'run.bat' depending on your OS
-* Otherwise, you can call `pm2 stop all` / `pm2 restart all` should you encounter critical errors
-* Specify which branch you want to update for submodule in .gitmodules and update it with
-```git submodule update --remote```
-
-* Helpful commands
-```$./run```
-```$./stop```
-
-* * To then restart the server again, type:
-```$pm2 reload all```
-
-* * If you want to bring the server logs back on-line to check them after hitting control-c, type:
-```$pm2 logs all```
-
-* * If you want the server to run on system startup (tested on Unix based OS) type:
-```$./persist```
-
-* * Make sure the submodule is up-to-date
-```$git submodule foreach git pull origin master```
-
-Note: the server keys do not work / security is not compromised via these stale keys.
+[Launch Instructions](instructions.md)
