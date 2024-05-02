@@ -5,6 +5,9 @@ I touched every part of this code-base. My advisor and his idea / need for a mul
 
 Students used this engine for their assignments, and for a final project, formed groups to create multi-user interactive VR experiences of their own, presented on a demo day.
 
+![unnamed-3](https://github.com/KTRosenberg/XR-MetaRoom/assets/16908296/3c11cb7d-b22b-4a8f-bad8-136493a2f718)
+
+
 This is a mirror, and the original version here: https://github.com/futurerealitylab/metaroom-webxr/tree/dev
 
 The most interesting features include fully-dynamic JS script reloading and shader reloading.
