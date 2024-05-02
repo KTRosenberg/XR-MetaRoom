@@ -1,6 +1,6 @@
 ### XR-MetaRoom
 
-I was the main architect on this collaborative effort to prototype this WebXR engine for a multiuser VR course taught by my advisor ~2018 (and updated onward). 
+I was the main architect on this collaborative effort to prototype a WebXR engine for a multiuser VR course taught by my advisor ~2018 (and updated onward). 
 This was built due to my advisor's idea / need for a multi-user VR engine for the web.
 
 I touched almost every part of this code-base. 
