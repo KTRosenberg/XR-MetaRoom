@@ -3,6 +3,8 @@
 I was the main architect of this prototype WebXR engine for a multiuser VR course taught by my advisor ~2018 and updated onward. 
 I touched every part of this code-base. My advisor and his idea / need for a multi-user VR engine for the web.
 
+Students used this engine for their assignments, and for a final project, formed groups to create multi-user interactive VR experiences of their own, presented on a demo day.
+
 This is a mirror, and the original version here: https://github.com/futurerealitylab/metaroom-webxr/tree/dev
 
 The most interesting features include fully-dynamic JS script reloading and shader reloading.
