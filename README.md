@@ -1,7 +1,10 @@
 ### XR-MetaRoom
 
 I was the main architect of this prototype WebXR engine for a multiuser VR course taught by my advisor ~2018 and updated onward. 
-I touched every part of this code-base. My advisor and his idea / need for a multi-user VR engine for the web.
+This was built due to my advisor's idea / need for a multi-user VR engine for the web.
+
+I touched almost every part of this code-base. 
+The commit history shows my specific contributions. 
 
 Students used this engine for their assignments, and for a final project, formed groups to create multi-user interactive VR experiences of their own, presented on a demo day.
 
@@ -22,6 +25,8 @@ https://github.com/KTRosenberg/XR-MetaRoom/tree/main/worlds/dynamic_renderer
 The shader preprocessor is here:
 https://github.com/KTRosenberg/XR-MetaRoom/blob/main/lib/util/webgl_basic_shader_preprocessor.js
 
-The commit history shows my specific contributions.
+Running Example of the shader interface:
+[https://github.com/KTRosenberg/XR-MetaRoom/assets/16908296/fe3adebb-de25-481d-b9e3-1ec871759077](https://ktrosenberg.github.io/19graphics/hw6/)
+
 
 [Launch Instructions](instructions.md)
